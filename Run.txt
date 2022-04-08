@@ -1,0 +1,19 @@
+Back-end
+	npm init -y
+	npm install --save express body-parser cors qrcode speakeasy
+	cd back-end/
+	node app.js
+
+Front-end: 
+	npm install -g @angular/cli
+	cd front-end/
+	npm install --save bootstrap
+	ng serve
+
+navegador:
+	http://localhost:4200/login
+
+npm install
+cd front-end
+ng serve
+
